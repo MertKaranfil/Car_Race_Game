@@ -1,0 +1,20 @@
+C:\Users\123\Desktop\car race project\car race\car race\bin\Debug\car race.exe
+C:\Users\123\Desktop\car race project\car race\car race\bin\Debug\car race.pdb
+C:\Users\123\Desktop\car race project\car race\car race\obj\x86\Debug\car_race.Form1.resources
+C:\Users\123\Desktop\car race project\car race\car race\obj\x86\Debug\car_race.Properties.Resources.resources
+C:\Users\123\Desktop\car race project\car race\car race\obj\x86\Debug\car race.csproj.GenerateResource.Cache
+C:\Users\123\Desktop\car race project\car race\car race\obj\x86\Debug\car race.exe
+C:\Users\123\Desktop\car race project\car race\car race\obj\x86\Debug\car race.pdb
+C:\Users\123\Desktop\car race project\car race\car race\obj\x86\Debug\car race.csprojResolveAssemblyReference.cache
+C:\Users\123\Desktop\car race project\car race\car race\obj\x86\Debug\car_race.Form2.resources
+C:\Users\pxz\Desktop\car race project\car race\car race\obj\x86\Debug\car race.exe
+C:\Users\pxz\Desktop\car race project\car race\car race\obj\x86\Debug\car race.pdb
+C:\Users\pxz\Desktop\car race project\car race\car race\bin\Debug\car race.exe
+C:\Users\pxz\Desktop\car race project\car race\car race\bin\Debug\car race.pdb
+C:\Users\pxz\Desktop\car race project\car race\car race\obj\x86\Debug\car race.csprojResolveAssemblyReference.cache
+C:\Users\pxz\Desktop\car race project\car race\car race\obj\x86\Debug\car_race.Form1.resources
+C:\Users\pxz\Desktop\car race project\car race\car race\obj\x86\Debug\car_race.Form2.resources
+C:\Users\pxz\Desktop\car race project\car race\car race\obj\x86\Debug\car_race.Properties.Resources.resources
+C:\Users\pxz\Desktop\car race project\car race\car race\obj\x86\Debug\car race.csproj.GenerateResource.Cache
+D:\car race project\car race\car race\obj\x86\Debug\car race.exe
+D:\car race project\car race\car race\obj\x86\Debug\car race.pdb
